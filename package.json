@@ -1,0 +1,15 @@
+{
+  "name": "mocksseserver",
+  "version": "1.0.0",
+  "description": "mock SSE server",
+  "main": "sseServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Gilbert",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0",
+    "express": "^4.17.1"
+  }
+}
